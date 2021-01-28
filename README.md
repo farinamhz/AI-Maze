@@ -1,5 +1,5 @@
 # AI-Maze
-Implementing three search algorithm in a maze.
+Implementing three search algorithms in a maze.
 
 1.BFS
 
